@@ -1,5 +1,5 @@
-# estrutura_de_repeticao - Python 3.11.2
- 
+
+# estruturas_de_repeticao  -- Python 3.11.2
 
  - while
  - for
